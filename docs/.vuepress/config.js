@@ -8,10 +8,10 @@ module.exports = {
     ['link', {rel: 'icon', href: '/favicon.ico'}]
   ],  */
   head: [
-    ['link', {rel: 'icon', href: '/favicon.ico'}]/*,
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    ['link', {rel: 'icon', href: '/favicon.ico'}],
+    ['meta', { name: 'theme-color', content: '#00b3e6' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]*/
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
    //BORRAR EN MULTILENGUAJE
   locales: {
