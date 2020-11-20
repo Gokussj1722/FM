@@ -27,7 +27,7 @@ module.exports = {
    themeConfig: {    
     docsDir: 'docs',
     //repo: 'Gokussj1722/FMWORLDNicargua',
-    logo: '/main.png',
+   // logo: '/main.png',
       locales: {
       '/':{
     selectText: 'Lenguaje',
