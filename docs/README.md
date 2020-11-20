@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: /fm1.png
 heroText: FM WORLD NICARAGUA
 tagline: Catálogo de Perfumes
 actionText: Ver todos →
