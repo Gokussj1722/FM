@@ -47,7 +47,7 @@ module.exports = {
 
   markdown: {
     // options for markdown-it-anchor
-    anchor: { permalink: true },
+    anchor: { permalink: false },
     // options for markdown-it-toc
     toc: { includeLevel: [1, 2, 3] },
     config: md => {
