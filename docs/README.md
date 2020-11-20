@@ -8,7 +8,7 @@ features:
 footer: Copyright © 2020 FM WORLD Nicaragua
 ---
 
-<img src="./fm1.jpg" width="120" height="120">
+<center><img src="./fm1.jpg" width="120" height="120"></center>
 
 **FM Nicaragua** o **FEDERICO MAHORA**, es una marca de perfumes creados con la colaboración de **Perfand** y **Drom Fragrances** en Polonia, con un gran impacto de mercado en Europa. En **Nicaragua**, lleva 4 años dentro del mercado nacional teniendo una gran aceptación debido a la relación **calidad/precio** de nuestros productos, ofreciendo la máxima calidad a un precio accesible, razón por la cual hemos decidido darnos a conocer a través de plataformas digitales, incorporándonos a la nueva forma en la que se mueve y se conecta el mundo. Estamos muy contentos con los resultados, nos ha permitido interactuar con muchas personas, nuevos mercados interesados en distribuir nuestras fragancias.
 
