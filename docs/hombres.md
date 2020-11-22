@@ -11,15 +11,6 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 [![LogoInsta](./insta.png 'instagram')](https://www.instagram.com/p/CHK5n_wnm2f/?utm_source=ig_web_copy_link) [![LogoInsta](./face.png 'Face')](https://www.facebook.com/fmworld.nicaragua) [![LogoInsta](./ws.png 'whastsapp')](https://wa.me/50588506541)
 
 
-### INTENSE
-
-¿Quieres oler bien más tiempo y más interesante? Estás buscando una fragancia duradera... muy duradera... ¡Elige **INTENSE**! ¡Disfruta de tu aroma favorito durante un tiempo increiblemente largo! ¡Concentración de hasta un **30%**!.
-
-### PHEROMONE
-
-¿Quieres seducir con tu olor? ¿Buscas ese último detalle antes de una cita? ¡Quédate en la memoria de los demás! ¡Gracias a este perfume, nadie te será indiferente!. Las **feromonas** son sustancias inodoros que se agregan a los perfumes para intensificar los efectos estimulantes. Son un arma secreta cuya misión es aumentar la atracción y la autoconfianza. ¡La seducción nunca ha sido tan fácil!.
-
-
 ## Colección PURE
 
 **PURE** es una línea de perfumes de la marca **Federico Mahora** con un 20% de concentración embotellados en unos elegantes frascos de 50 ml. Esta galería aromática presenta hasta más de 85 composiciones diferentes que esconden una riqueza de notas aromáticas incomparable. ✨
@@ -28,7 +19,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 52
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
+
 
 - **Carácter**: Atractivo, cautivador.
 - **Notas aromáticas** 
@@ -53,7 +44,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o52.jpg" width="100" height="180">
+<img src="./img/o52.jpg" width="120" height="230">
 </td>
 
 </tr>
@@ -62,7 +53,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 457
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
+
 
 - **Carácter**: Fresco, minimalista.
 - **Notas aromáticas** 
@@ -87,7 +78,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o457.jpg" width="150" height="190">
+<img src="./img/o457.jpg" width="160" height="230">
 </td>
 
 </tr>
@@ -120,7 +111,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o705.jpg" width="150" height="200">
+<img src="./img/o705.jpg" width="160" height="230">
 </td>
 
 </tr>
@@ -130,7 +121,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 134
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
+
 
 - **Carácter**: Refrescante, cautivador.
 - **Notas aromáticas** 
@@ -155,7 +146,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o134.jpg" width="120" height="220">
+<img src="./img/o134.jpg" width="130" height="230">
 </td>
 
 </tr>
@@ -164,7 +155,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 135
 
-#### **DISPONIBLE TAMBIÉN EN "PHEROMONE"**.
+
 
 - **Carácter**: Sorprendente, intenso.
 - **Notas aromáticas** 
@@ -189,7 +180,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o135.jpg" width="120" height="200">
+<img src="./img/o135.jpg" width="135" height="230">
 </td>
 
 </tr>
@@ -199,7 +190,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 473
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
+
 
 - **Carácter**: Limpio, energético.
 - **Notas aromáticas** 
@@ -224,7 +215,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o473.jpg" width="100" height="210">
+<img src="./img/o473.jpg" width="100" height="230">
 </td>
 
 </tr>
@@ -234,7 +225,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 64
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
+
 
 - **Carácter**: Elegante y sensual.
 - **Notas aromáticas** 
@@ -259,7 +250,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o64.jpg" width="80" height="210">
+<img src="./img/o64.jpg" width="95" height="230">
 </td>
 
 </tr>
@@ -292,7 +283,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o224.jpg" width="110" height="170">
+<img src="./img/o224.jpg" width="130" height="200">
 </td>
 
 </tr>
@@ -302,7 +293,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 472
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
+
 
 - **Carácter**: Fresco y energético.
 - **Notas aromáticas** 
@@ -327,7 +318,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o472.jpg" width="110" height="210">
+<img src="./img/o472.jpg" width="120" height="230">
 </td>
 
 </tr>
@@ -360,7 +351,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o471.jpg" width="90" height="210">
+<img src="./img/o471.jpg" width="100" height="230">
 </td>
 
 </tr>
@@ -393,7 +384,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o480.jpg" width="110" height="210">
+<img src="./img/o480.jpg" width="140" height="230">
 </td>
 
 </tr>
@@ -425,7 +416,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o490.jpg" width="110" height="190">
+<img src="./img/o490.jpg" width="140" height="230">
 </td>
 
 </tr>
@@ -457,7 +448,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o719.jpg" width="90" height="190">
+<img src="./img/o719.jpg" width="120" height="230">
 </td>
 
 </tr>
@@ -490,7 +481,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o483.jpg" width="100" height="200">
+<img src="./img/o483.jpg" width="100" height="230">
 </td>
 
 </tr>
@@ -522,7 +513,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o452.jpg" width="120" height="200">
+<img src="./img/o452.jpg" width="130" height="230">
 </td>
 
 </tr>
@@ -531,7 +522,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 110
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
+
 
 - **Carácter**: Algo atrevido, rebelde.
 - **Notas aromáticas** 
@@ -556,7 +547,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o110.jpg" width="100" height="200">
+<img src="./img/o110.jpg" width="120" height="230">
 </td>
 
 </tr>
@@ -588,7 +579,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o474.jpg" width="115" height="220">
+<img src="./img/o474.jpg" width="135" height="230">
 </td>
 
 </tr>
@@ -621,7 +612,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o57.jpg" width="110" height="220">
+<img src="./img/o57.jpg" width="110" height="230">
 </td>
 
 </tr>
@@ -631,7 +622,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 56
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
+
 
 - **Carácter**: Vibrante, despierta los sentidos.
 - **Notas aromáticas** 
@@ -656,7 +647,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o56.jpg" width="100" height="210">
+<img src="./img/o56.jpg" width="110" height="230">
 </td>
 
 </tr>
@@ -689,7 +680,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o55.jpg" width="100" height="200">
+<img src="./img/o55.jpg" width="120" height="230">
 </td>
 
 </tr>
@@ -721,7 +712,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o482.jpg" width="70" height="210">
+<img src="./img/o482.jpg" width="90" height="230">
 </td>
 
 </tr>
@@ -731,7 +722,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 43
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE"**.
+
 
 - **Carácter**: Energético, cautivador.
 - **Notas aromáticas** 
@@ -756,7 +747,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o43.jpg" width="100" height="180">
+<img src="./img/o43.jpg" width="110" height="230">
 </td>
 
 </tr>
@@ -789,7 +780,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o54.jpg" width="100" height="190">
+<img src="./img/o54.jpg" width="120" height="230">
 </td>
 
 </tr>
@@ -821,7 +812,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o93.jpg" width="130" height="190">
+<img src="./img/o93.jpg" width="120" height="230">
 </td>
 
 </tr>
@@ -854,7 +845,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o475.jpg" width="120" height="200">
+<img src="./img/o475.jpg" width="125" height="230">
 </td>
 
 </tr>
@@ -886,7 +877,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o481.jpg" width="120" height="210">
+<img src="./img/o481.jpg" width="125" height="230">
 </td>
 
 </tr>
@@ -918,7 +909,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o479.jpg" width="120" height="210">
+<img src="./img/o479.jpg" width="125" height="230">
 </td>
 
 </tr>
@@ -950,7 +941,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o478.jpg" width="100" height="210">
+<img src="./img/o478.jpg" width="100" height="230">
 </td>
 
 </tr>
@@ -982,7 +973,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o704.jpg" width="110" height="190">
+<img src="./img/o704.jpg" width="110" height="230">
 </td>
 
 </tr>
@@ -1014,12 +1005,613 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </td>
 
 <td width="">
-<img src="./img/o721.jpg" width="130" height="200">
+<img src="./img/o721.jpg" width="150" height="230">
 </td>
 
 </tr>
 </tbody>
 </table>
+
+
+## Colección PURE INTENSE
+
+¿Quieres oler bien más tiempo y más interesante? Estás buscando una fragancia duradera... muy duradera... ¡Elige **INTENSE**! ¡Disfruta de tu aroma favorito durante un tiempo increiblemente largo!.
+
+Los perfumes **INTENSE** te asegurarán sensaciones intensas que  adquirirán fuerza com el paso de las horas. Disfruta de ellos durante un tiempo increíblemente largo gracias a su concentración de hasta un **30%**!. ✨
+
+### Pure INTENSE 52
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/52i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o52.jpg" width="110" height="220">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 457
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/457i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o457.jpg" width="160" height="210">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 134
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/134i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o134.jpg" width="120" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+### Pure INTENSE 473
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/473i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o473.jpg" width="100" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+### Pure INTENSE 64
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/64i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o64.jpg" width="90" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+### Pure INTENSE 472
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/472i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o472.jpg" width="120" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 110
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/110i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o110.jpg" width="120" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 56
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/56i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o56.jpg" width="110" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+### Pure INTENSE 43
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/43i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o43.jpg" width="110" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+## Colección PURE PHEROMONE
+
+¿Quieres seducir con tu olor? ¿Buscas ese último detalle antes de una cita? ¡Quédate en la memoria de los demás! ¡Gracias a este perfume, nadie te será indiferente!. 
+
+Las **feromonas** son sustancias inodoros que se agregan a los perfumes para intensificar los efectos estimulantes. Son un arma secreta cuya misión es aumentar la atracción y la autoconfianza. ¡La seducción nunca ha sido tan fácil!.
+
+
+### Pure PHEROMONE 52
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/52p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o52.jpg" width="110" height="220">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 457
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/457p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o457.jpg" width="160" height="210">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 134
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/134p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o134.jpg" width="120" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+### Pure PHEROMONE 473
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/473p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o473.jpg" width="100" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+### Pure PHEROMONE 64
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/64p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o64.jpg" width="90" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+### Pure PHEROMONE 472
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/472p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o472.jpg" width="120" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 110
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/110p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o110.jpg" width="120" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 56
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/56p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o56.jpg" width="110" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+### Pure PHEROMONE 135
+
+- **Carácter**: Atractivo, cautivador.
+- **Notas aromáticas** 
+- **Salida**: manzana, bergamota, menta.
+- **Corazón**: Jazmín, pelargonio, lavanda.
+- **Fondo**: Canela, clavo, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/135p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o135.jpg" width="130" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
 
 ## Colección PURE ROYAL
 La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así como las de la apreciada colección de Lujo. Aromas de distinción aromática y elegancia sublime, incluye perfumes para ella y para él, con hasta un 30% de concentración, sellados en frascos en un diseño exquisito y estiloso. Una verdadera galería aromática que, junto con la colección de lujo incluye maravillas y diferentes fragancias.
@@ -1052,7 +1644,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o151.jpg" width="130" height="200">
+<img src="./img/o151.jpg" width="160" height="260">
 </td>
 
 </tr>
@@ -1085,7 +1677,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o814.jpg" width="100" height="280">
+<img src="./img/o814.jpg" width="105" height="290">
 </td>
 
 </tr>
@@ -1118,7 +1710,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o831.jpg" width="140" height="250">
+<img src="./img/o831.jpg" width="180" height="290">
 </td>
 
 </tr>
@@ -1151,7 +1743,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o837.jpg" width="140" height="250">
+<img src="./img/o837.jpg" width="140" height="290">
 </td>
 
 </tr>
@@ -1184,7 +1776,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o838.jpg" width="140" height="230">
+<img src="./img/o838.jpg" width="150" height="260">
 </td>
 
 </tr>
@@ -1217,7 +1809,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o332.jpg" width="180" height="250">
+<img src="./img/o332.jpg" width="190" height="290">
 </td>
 
 </tr>
@@ -1250,7 +1842,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o199.jpg" width="100" height="260">
+<img src="./img/o199.jpg" width="100" height="290">
 </td>
 
 </tr>
@@ -1283,7 +1875,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o335.jpg" width="110" height="250">
+<img src="./img/o335.jpg" width="130" height="290">
 </td>
 
 </tr>
@@ -1316,7 +1908,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o169.jpg" width="150" height="260">
+<img src="./img/o169.jpg" width="155" height="290">
 </td>
 
 </tr>
@@ -1382,7 +1974,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o327.jpg" width="180" height="270">
+<img src="./img/o327.jpg" width="185" height="290">
 </td>
 
 </tr>
@@ -1447,7 +2039,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o822.jpg" width="150" height="270">
+<img src="./img/o822.jpg" width="160" height="290">
 </td>
 
 </tr>
@@ -1480,7 +2072,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o301.jpg" width="170" height="270">
+<img src="./img/o301.jpg" width="170" height="290">
 </td>
 
 </tr>
@@ -1513,7 +2105,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o152.jpg" width="150" height="270">
+<img src="./img/o152.jpg" width="150" height="290">
 </td>
 
 </tr>
@@ -1546,7 +2138,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o195.jpg" width="180" height="270">
+<img src="./img/o195.jpg" width="180" height="290">
 </td>
 
 </tr>
@@ -1579,7 +2171,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o198.jpg" width="170" height="260">
+<img src="./img/o198.jpg" width="170" height="290">
 </td>
 
 </tr>
@@ -1612,7 +2204,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o300.jpg" width="160" height="280">
+<img src="./img/o300.jpg" width="160" height="290">
 </td>
 
 </tr>
@@ -1645,7 +2237,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o326.jpg" width="120" height="250">
+<img src="./img/o326.jpg" width="125" height="290">
 </td>
 
 </tr>
@@ -1678,7 +2270,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o334.jpg" width="150" height="250">
+<img src="./img/o334.jpg" width="150" height="290">
 </td>
 
 </tr>
@@ -1777,7 +2369,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o821.jpg" width="120" height="280">
+<img src="./img/o821.jpg" width="120" height="290">
 </td>
 
 </tr>
@@ -1809,7 +2401,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o823.jpg" width="100" height="260">
+<img src="./img/o823.jpg" width="120" height="290">
 </td>
 
 </tr>
@@ -1842,7 +2434,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o824.jpg" width="140" height="280">
+<img src="./img/o824.jpg" width="140" height="290">
 </td>
 
 </tr>
@@ -1875,7 +2467,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o830.jpg" width="110" height="280">
+<img src="./img/o830.jpg" width="110" height="290">
 </td>
 
 </tr>
@@ -1908,7 +2500,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o832.jpg" width="120" height="280">
+<img src="./img/o832.jpg" width="120" height="290">
 </td>
 
 </tr>
@@ -1941,7 +2533,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o839.jpg" width="160" height="280">
+<img src="./img/o839.jpg" width="160" height="290">
 </td>
 
 </tr>
@@ -1974,7 +2566,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o840.jpg" width="160" height="280">
+<img src="./img/o840.jpg" width="160" height="290">
 </td>
 
 </tr>
@@ -2007,12 +2599,16 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 </td>
 
 <td width="">
-<img src="./img/o907.jpg" width="160" height="280">
+<img src="./img/o907.jpg" width="160" height="290">
 </td>
 
 </tr>
 </tbody>
 </table>
+
+
+
+
 
 
 
