@@ -4,25 +4,12 @@ title: Catálogo Perfumes Mujeres
 
 <h1>Catálogo Perfumes Mujeres</h1>
 
-Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para mujeres!. Son excelentes perfumes para las damas modernas que aprecian las notas aromáticas intensas y sofisticadas junto a la hermosa apariencia del frasco. 💞 🌟
-
-**Síguenos en nuestras redes sociales y haz tus pedidos desde nuestro WhatsApp🌟🌟🌟**
-
-[![LogoInsta](./insta.png 'instagram')](https://www.instagram.com/p/CHK5n_wnm2f/?utm_source=ig_web_copy_link) [![LogoInsta](./face.png 'Face')](https://www.facebook.com/fmworld.nicaragua) [![LogoInsta](./ws.png 'whastsapp')](https://wa.me/50588506541)
-
-
-### INTENSE
-
-¿Quieres oler bien más tiempo y más interesante? Estás buscando una fragancia duradera... muy duradera... ¡Elige **INTENSE**! ¡Disfruta de tu aroma favorito durante un tiempo increiblemente largo! ¡Concentración de hasta un **30%**!.
-
-### PHEROMONE
-
-¿Quieres seducir con tu olor? ¿Buscas ese último detalle antes de una cita? ¡Quédate en la memoria de los demás! ¡Gracias a este perfume, nadie te será indiferente!. Las **feromonas** son sustancias inodoros que se agregan a los perfumes para intensificar los efectos estimulantes. Son un arma secreta cuya misión es aumentar la atracción y la autoconfianza. ¡La seducción nunca ha sido tan fácil!.
+Sensual, llena de delicadeza, deslumbrante ¡Estas son las fragancias para mujeres!. Son excelentes perfumes para las damas modernas que aprecian las notas aromáticas intensas y sofisticadas junto a la hermosa apariencia del frasco.
 
 
 ## Colección Pure
  
-**PURE** es una línea de perfumes de la marca **Federico Mahora** con un 20% de concentración embotellados en unos elegantes frascos de 50 ml. Esta galería aromática presenta hasta más de 100 composiciones diferentes que esconden una riqueza de notas aromáticas incomparable. ✨
+**PURE** es una línea de perfumes de la marca **Federico Mahora** con un 20% de concentración embotellados en unos elegantes frascos de 50 ml. Esta galería aromática presenta hasta más de 100 composiciones diferentes que esconden una riqueza de notas aromáticas incomparable.
 
 ![Portada](./img/portam1.jpg 'PortadaPure')
 
@@ -60,8 +47,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 ### Pure 21
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE"**.
-
 - **Carácter**: Clásico, cálido y reconfortante.
 - **Notas aromáticas** 
 - **Salida**: Aldehído, ylang-ylang, fl or de azahar.
@@ -70,7 +55,7 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 - **Familia olfativa**: Floral.
 - **Tipo de perfume**: Intemporal.
 - **Capacidad**: 50 ml.
-- **Concentración**: 30%.
+- **Concentración**: 20%.
 - **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Alpha-Isomethyl Ionone, Benzyl Benzoate, Coumarin, Hydroxycitronellal, Citronellol, Cinnamyl Alcohol, Eugenol, Geraniol, Benzyl Salicylate, Benzyl Cinnamate, Isoeugenol, Amyl Cinnamal, Farnesol, Hexyl Cinnamal, Benzyl Alcohol, Limonene, Citral, Cinnamal.
 
 
@@ -126,8 +111,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 ### Pure 33
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
-
 - **Carácter**: Refrescante, alegre.
 - **Notas aromáticas** 
 - **Salida**: Mango, limón siciliano, manzana.
@@ -160,8 +143,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 ### Pure 05
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
-
 - **Carácter**: Intrigante, actual.
 - **Notas aromáticas** 
 - **Salida**: Fresia, gardenia.
@@ -170,7 +151,7 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 - **Familia olfativa**: Chypre.
 - **Tipo de perfume**: Sensual.
 - **Capacidad**: 50 ml.
-- **Concentración**: 30%.
+- **Concentración**: 20%.
 - **Ingredientes**: Alcohol denat., Fragrance/Parfum, Methylpropional, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Hydroxycitronellal, Linalool, Alpha-Isomethyl Ionone, Citronellol, Geraniol, Limonene, Eugenol, Citral.
 
 
@@ -195,8 +176,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 ### Pure 17
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE"**.
-
 - **Carácter**: Estimulante, dulce.
 - **Notas aromáticas** 
 - **Salida**: Melón, melocotón, manzana.
@@ -205,7 +184,7 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 - **Familia olfativa**: Floral.
 - **Tipo de perfume**: Sexy.
 - **Capacidad**: 50 ml.
-- **Concentración**: 30%.
+- **Concentración**: 20%.
 - **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Benzyl Salicylate, Citronellol, Citral, Isoeugenol, Benzyl Alcohol, Geraniol.
 
 
@@ -261,8 +240,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 ### Pure 413
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
-
 - **Carácter**: Impregnado de dulzura, algo juguetón.
 - **Notas aromáticas** 
 - **Salida**: Grosella negra, pera.
@@ -294,8 +271,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 </table>
 
 ### Pure 431
-
-#### **DISPONIBLE TAMBIÉN EN "PHEROMONE"**.
 
 - **Carácter**: Con clase, elegante.
 - **Notas aromáticas** 
@@ -394,8 +369,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 ### Pure 436
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
-
 - **Carácter**: Seductoramente dulce, tentador.
 - **Notas aromáticas** 
 - **Salida**: Frutos rojos, mandarina.
@@ -427,8 +400,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 </table>
 
 ### Pure 101
-
-#### **DISPONIBLE TAMBIÉN EN "PHEROMONE"**.
 
 - **Carácter**: Sofisticado, inolvidable.
 - **Notas aromáticas** 
@@ -560,8 +531,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 ### Pure 81
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
-
 - **Carácter**: Excéntrico pero sutil.
 - **Notas aromáticas** 
 - **Salida**: Manzana verde, pepino, magnolia.
@@ -594,8 +563,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 
 ### Pure 173
-
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
 
 - **Carácter**: Onírico, sentimental.
 - **Notas aromáticas** 
@@ -729,8 +696,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 ### Pure 489
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
-
 - **Carácter**: Futurista, excéntrico.
 - **Notas aromáticas** 
 - **Salida**: Hojas verdes, anís, grosella negra.
@@ -763,8 +728,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 
 ### Pure 10
-
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
 
 - **Carácter**: Estimulante, dulce.
 - **Notas aromáticas** 
@@ -832,8 +795,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 ### Pure 16
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
-
 - **Carácter**: Fabuloso, fascinante.
 - **Notas aromáticas** 
 - **Salida**: Mandarina, pera, notas verdes.
@@ -900,8 +861,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 ### Pure 25
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE"**.
-
 - **Carácter**: Armonioso, algo atrevido.
 - **Notas aromáticas** 
 - **Salida**: Manzana verde, notas acuosas.
@@ -934,8 +893,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 
 ### Pure 34
-
-#### **DISPONIBLE TAMBIÉN EN "PHEROMONE"**.
 
 - **Carácter**: Libre, alegre.
 - **Notas aromáticas** 
@@ -970,8 +927,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 ### Pure 20
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
-
 - **Carácter**: Seductor, sensual.
 - **Notas aromáticas** 
 - **Salida**: Osmanto, té negro, bergamota.
@@ -1003,8 +958,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 </table>
 
 ### Pure 01
-
-#### **DISPONIBLE TAMBIÉN EN "PHEROMONE"**.
 
 - **Carácter**: Fresco y cálido a la vez.
 - **Notas aromáticas** 
@@ -1072,8 +1025,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 ### Pure 09
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE"**.
-
 - **Carácter**: Difícil de olvidar, mágico.
 - **Notas aromáticas** 
 - **Salida**: Violeta, cardamomo, frutas verdes.
@@ -1097,7 +1048,7 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 </td>
 
 <td width="">
-<img src="./img/o09.jpg" width="160" height="220">
+<img src="./img/o09.jpg" width="190" height="220">
 </td>
 
 </tr>
@@ -1106,8 +1057,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 
 ### Pure 18
-
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
 
 - **Carácter**: Radiante, seductor.
 - **Notas aromáticas** 
@@ -1141,8 +1090,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 
 ### Pure 23
-
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
 
 - **Carácter**: Sensual, con notas dulces.
 - **Notas aromáticas** 
@@ -1308,8 +1255,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 ### Pure 97
 
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
-
 - **Carácter**: Encantador, aterciopelado.
 - **Notas aromáticas** 
 - **Salida**: Fresia, lirio, rosa.
@@ -1342,8 +1287,6 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 
 
 ### Pure 98
-
-#### **DISPONIBLE TAMBIÉN EN "INTENSE" Y "PHEROMONE"**.
 
 - **Carácter**: Fresco, sutil.
 - **Notas aromáticas** 
@@ -1911,7 +1854,7 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 - **Salida**:  Pétalos de rosa, flor de azafrán, bosques blancos.
 - **Corazón**:  Jazmín árabe, ciruela, vainilla planifolia.
 - **Fondo**: Vetiver, ámbar, almizcle.
-- **Familia olfativa**: Flor.
+- **Familia olfativa**: Floral.
 - **Tipo de perfume**: Dulce.
 - **Capacidad**: 50 ml.
 - **Concentración**: 20%.
@@ -2330,6 +2273,1187 @@ Sensual, llena de delicadeza, deslumbrante ⭐ ¡Estas son las fragancias para m
 </tr>
 </tbody>
 </table>
+
+
+## Colección PURE INTENSE
+
+¿Quieres oler bien más tiempo y más interesante? Estás buscando una fragancia duradera... muy duradera... ¡Elige **INTENSE**! ¡Disfruta de tu aroma favorito durante un tiempo increiblemente largo!.
+
+Los perfumes **INTENSE** te asegurarán sensaciones intensas que  adquirirán fuerza com el paso de las horas. Disfruta de ellos durante un tiempo increíblemente largo gracias a su concentración de hasta un **30%**!.
+
+![Portada](./img/portaim.jpg 'PortadaRoyal')
+
+### Pure INTENSE 21
+
+- **Carácter**: Clásico, cálido y reconfortante.
+- **Notas aromáticas** 
+- **Salida**: Aldehído, ylang-ylang, fl or de azahar.
+- **Corazón**: Rosa, lirio, iris.
+- **Fondo**: Civeta africana, musgo de roble, sándalo.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Intemporal.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Alpha-Isomethyl Ionone, Benzyl Benzoate, Coumarin, Hydroxycitronellal, Citronellol, Cinnamyl Alcohol, Eugenol, Geraniol, Benzyl Salicylate, Benzyl Cinnamate, Isoeugenol, Amyl Cinnamal, Farnesol, Hexyl Cinnamal, Benzyl Alcohol, Limonene, Citral, Cinnamal.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/21i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o21.jpg" width="130" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 33
+
+- **Carácter**: Refrescante, alegre.
+- **Notas aromáticas** 
+- **Salida**: Mango, limón siciliano, manzana.
+- **Corazón**: Jazmín, bambú, rosas blancas.
+- **Fondo**: Cedro, ámbar gris.
+- **Familia olfativa**: Cítrica.
+- **Tipo de perfume**: Fresca.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Limonene, Citral, Linalool, Cinnamal, Citronellol.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/33i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o33.jpg" width="130" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 05
+
+- **Carácter**: Intrigante, actual.
+- **Notas aromáticas** 
+- **Salida**: Fresia, gardenia.
+- **Corazón**: Madera de sándalo, rosa, cilantro.
+- **Fondo**: Vainilla, vetiver, pachuli.
+- **Familia olfativa**: Chypre.
+- **Tipo de perfume**: Sensual.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Methylpropional, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Hydroxycitronellal, Linalool, Alpha-Isomethyl Ionone, Citronellol, Geraniol, Limonene, Eugenol, Citral.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/05i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o05.jpg" width="190" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 17
+
+- **Carácter**: Estimulante, dulce.
+- **Notas aromáticas** 
+- **Salida**: Melón, melocotón, manzana.
+- **Corazón**: Fresia, azucena, mimosa, polianthes tuberosa, jazmín.
+- **Fondo**: Cedro, ylang-ylang, almizcle.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Sexy.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Benzyl Salicylate, Citronellol, Citral, Isoeugenol, Benzyl Alcohol, Geraniol.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/17i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o17.jpg" width="80" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 413
+
+- **Carácter**: Impregnado de dulzura, algo juguetón.
+- **Notas aromáticas** 
+- **Salida**: Grosella negra, pera.
+- **Corazón**: Iris, jazmín, fl or de azahar.
+- **Fondo**: Praliné de chocolate, pachuli, vainilla.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Dulce.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Benzyl Salicylate, Linalool, Limonene, Alpha-Isomethyl Ionone, Citronellol, Coumarin, Evernia Prunastri Extract, Hexyl Cinnamal, Geraniol, Citral.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/413i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o413.jpg" width="170" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 436
+
+- **Carácter**: Seductoramente dulce, tentador.
+- **Notas aromáticas** 
+- **Salida**: Frutos rojos, mandarina.
+- **Corazón**: Lirio, peonía.
+- **Fondo**: Praliné, ámbar, almizcle, caramelo.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Sensual.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Benzyl Salicylate, Butylphenyl Methylpropional, Limonene, Hexyl Cinnamal, Hydroxycitronellal, Coumarin, Citronellol, Linalool, Benzyl Alcohol.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/436i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o436.jpg" width="160" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 81
+
+- **Carácter**: Excéntrico pero sutil.
+- **Notas aromáticas** 
+- **Salida**: Manzana verde, pepino, magnolia.
+- **Corazón**: Lirio, rosa, violeta.
+- **Fondo**: Sándalo, ámbar gris.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Delicado.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Geraniol, Linalool, Hydroxycitronellal, Citronellol, Isoeugenol, Methyl 2-Octynoate, Citral.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/81i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o81.jpg" width="160" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 173
+
+- **Carácter**: Onírico, sentimental.
+- **Notas aromáticas** 
+- **Salida**: Anís, regaliz.
+- **Corazón**: Árbol de Jacarandá, almendras amargas.
+- **Fondo**: Sándalo, almizcle, musgo.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Misterioso.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/173i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o173.jpg" width="160" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 489
+
+- **Carácter**: Futurista, excéntrico.
+- **Notas aromáticas** 
+- **Salida**: Hojas verdes, anís, grosella negra.
+- **Corazón**: Azahar, notas acuáticas, lirio de los valles, árbol de cachemir.
+- **Fondo**:  Cedro, pachulí, haba tonka, ámbar gris.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Acuoso.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Benzyl Salicylate, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Limonene, Linalool, Geraniol, Coumarin, Citronellol, Citral.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/489i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o489.jpg" width="120" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 10
+
+- **Carácter**: Estimulante, dulce.
+- **Notas aromáticas** 
+- **Salida**: Mandarina, hojas de hiedra, flores de champaca.
+- **Corazón**: Jazmín, orquídea africana, rosa.
+- **Fondo**:  Madera de amaranto, zarzamora, almizcle.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Provocativo.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Butylphenyl Methylpropional, Linalool, Hexyl Cinnamal, Benzyl Salicylate, Citronellol, Alpha-Isomethyl Ionone, Hydroxycitronellal, Limonene, Geraniol, Benzyl Benzoate, Cinnamyl Alcohol, Citral, Benzyl Alcohol, Eugenol, Farnesol, Amyl Cinnamal.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/10i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o10.jpg" width="110" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 16
+
+- **Carácter**: Fabuloso, fascinante.
+- **Notas aromáticas** 
+- **Salida**: Mandarina, pera, notas verdes.
+- **Corazón**: Orquídea.
+- **Fondo**:  Pachuli, tofe.
+- **Familia olfativa**: Chypre.
+- **Tipo de perfume**: Dulce.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Hexyl Cinnamal, Benzyl Salicylate, Butylphenyl Methylpropional, Linalool, Limonene, Benzyl Alcohol, Amyl Cinnamal.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/16i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o16.jpg" width="150" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 25
+
+- **Carácter**: Armonioso, algo atrevido.
+- **Notas aromáticas** 
+- **Salida**: Manzana verde, notas acuosas.
+- **Corazón**: Jazmín, fresia, iris, pasionaria.
+- **Fondo**:  Sándalo, cedro, vainilla.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Encantador.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Benzyl Salicylate, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Hexyl Cinnamal, Citronellol, Linalool, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Limonene, Geraniol, Benzyl Alcohol.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/25i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o25.jpg" width="160" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 20
+
+- **Carácter**: Seductor, sensual.
+- **Notas aromáticas** 
+- **Salida**: Osmanto, té negro, bergamota.
+- **Corazón**: Rosa, fresia, magnolia, orquídea.
+- **Fondo**:  Almizcle, pachuli.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Dulce.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Benzyl Salicylate, Linalool, Coumarin, Limonene, Benzyl Benzoate, Benzyl Cinnamate, Benzyl Alcohol, Citral.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/20i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o20.jpg" width="120" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 09
+
+- **Carácter**: Difícil de olvidar, mágico.
+- **Notas aromáticas** 
+- **Salida**: Violeta, cardamomo, frutas verdes.
+- **Corazón**: Almendras, jazmín.
+- **Fondo**: Vainilla, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Misterioso.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Benzyl Salicylate, Hexyl Cinnamal, Amyl Cinnamal, Alpha-Isomethyl Ionone, Linalool, Coumarin, Limonene, Hydroxycitronellal, Citral, Benzyl Cinnamate, Benzyl Alcohol, Geraniol.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/09i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o09.jpg" width="190" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 18
+
+- **Carácter**: Radiante, seductor.
+- **Notas aromáticas** 
+- **Salida**: Naranja, flor de azahar.
+- **Corazón**: Rosa, jazmín, ylang-ylang.
+- **Fondo**: Almizcle blanco, vetiver, haba Tonka, vainilla.
+- **Familia olfativa**: Chypre.
+- **Tipo de perfume**: Provocativo.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Butylphenyl Methylpropional, Limonene, Benzyl Salicylate, Hydroxycitronellal, Geraniol, Citronellol, Coumarin, Hexyl  innamal, Benzyl Alcohol, Citral, Eugenol.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/18i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o18.jpg" width="170" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 23
+
+- **Carácter**: Sensual, con notas dulces.
+- **Notas aromáticas** 
+- **Salida**: Lirio, naranja roja.
+- **Corazón**: Mandarina, jazmín, rosa.
+- **Fondo**: Vainilla, sándalo, almizcle blanco.
+- **Familia olfativa**: Cítrica.
+- **Tipo de perfume**: Romántica.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Hexyl Cinnamal, Butylphenyl Methylpropional, Linalool, Hydroxycitronellal, Limonene, Citronellol, Coumarin, Geraniol, Benzyl Alcohol, Citral, Amyl Cinnamal.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/23i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o23.jpg" width="150" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 97
+
+- **Carácter**: Encantador, aterciopelado.
+- **Notas aromáticas** 
+- **Salida**: Fresia, lirio, rosa.
+- **Corazón**: Azucena, gardenia, palma, narciso.
+- **Fondo**: Grosella negra, almizcle, musgo de roble.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Butylphenyl Methylpropional, Hydroxycitronellal, Linalool, Limonene, Citronellol, Alpha-Isomethyl Ionone, Geraniol.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/97i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o97.jpg" width="190" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure INTENSE 98
+
+- **Carácter**: Fresco, sutil.
+- **Notas aromáticas** 
+- **Salida**: Grosella negra, bergamota, limón.
+- **Corazón**: Jazmín, lirio, rosa.
+- **Fondo**: Sándalo, cedro, ámbar.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Empresarial.
+- **Capacidad**: 50 ml.
+- **Concentración**: 30%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Hydroxycitronellal, Citral, Geraniol.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/98i.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o98.jpg" width="130" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+
+
+## Colección PURE PHEROMONE
+
+¿Quieres seducir con tu olor? ¿Buscas ese último detalle antes de una cita? ¡Quédate en la memoria de los demás! ¡Gracias a este perfume, nadie te será indiferente!. 
+
+Las **feromonas** son sustancias inodoros que se agregan a los perfumes para intensificar los efectos estimulantes. Son un arma secreta cuya misión es aumentar la atracción y la autoconfianza. ¡La seducción nunca ha sido tan fácil!.
+
+![Portada](./img/portap.jpg 'PortadaRoyal')
+
+### Pure PHEROMONE 33
+
+- **Carácter**: Refrescante, alegre.
+- **Notas aromáticas** 
+- **Salida**: Mango, limón siciliano, manzana.
+- **Corazón**: Jazmín, bambú, rosas blancas.
+- **Fondo**: Cedro, ámbar gris.
+- **Familia olfativa**: Cítrica.
+- **Tipo de perfume**: Fresca.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Limonene, Citral, Linalool, Cinnamal, Citronellol.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/33p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o33.jpg" width="130" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 05
+
+- **Carácter**: Intrigante, actual.
+- **Notas aromáticas** 
+- **Salida**: Fresia, gardenia.
+- **Corazón**: Madera de sándalo, rosa, cilantro.
+- **Fondo**: Vainilla, vetiver, pachuli.
+- **Familia olfativa**: Chypre.
+- **Tipo de perfume**: Sensual.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Methylpropional, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Hydroxycitronellal, Linalool, Alpha-Isomethyl Ionone, Citronellol, Geraniol, Limonene, Eugenol, Citral.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/05p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o05.jpg" width="190" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+
+### Pure PHEROMONE 413
+
+- **Carácter**: Impregnado de dulzura, algo juguetón.
+- **Notas aromáticas** 
+- **Salida**: Grosella negra, pera.
+- **Corazón**: Iris, jazmín, fl or de azahar.
+- **Fondo**: Praliné de chocolate, pachuli, vainilla.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Dulce.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Benzyl Salicylate, Linalool, Limonene, Alpha-Isomethyl Ionone, Citronellol, Coumarin, Evernia Prunastri Extract, Hexyl Cinnamal, Geraniol, Citral.
+
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/413p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o413.jpg" width="170" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 436
+
+- **Carácter**: Seductoramente dulce, tentador.
+- **Notas aromáticas** 
+- **Salida**: Frutos rojos, mandarina.
+- **Corazón**: Lirio, peonía.
+- **Fondo**: Praliné, ámbar, almizcle, caramelo.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Sensual.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Benzyl Salicylate, Butylphenyl Methylpropional, Limonene, Hexyl Cinnamal, Hydroxycitronellal, Coumarin, Citronellol, Linalool, Benzyl Alcohol.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/436p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o436.jpg" width="160" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 81
+
+- **Carácter**: Excéntrico pero sutil.
+- **Notas aromáticas** 
+- **Salida**: Manzana verde, pepino, magnolia.
+- **Corazón**: Lirio, rosa, violeta.
+- **Fondo**: Sándalo, ámbar gris.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Delicado.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Geraniol, Linalool, Hydroxycitronellal, Citronellol, Isoeugenol, Methyl 2-Octynoate, Citral.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/81p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o81.jpg" width="160" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 173
+
+- **Carácter**: Onírico, sentimental.
+- **Notas aromáticas** 
+- **Salida**: Anís, regaliz.
+- **Corazón**: Árbol de Jacarandá, almendras amargas.
+- **Fondo**: Sándalo, almizcle, musgo.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Misterioso.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/173p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o173.jpg" width="160" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 489
+
+- **Carácter**: Futurista, excéntrico.
+- **Notas aromáticas** 
+- **Salida**: Hojas verdes, anís, grosella negra.
+- **Corazón**: Azahar, notas acuáticas, lirio de los valles, árbol de cachemir.
+- **Fondo**:  Cedro, pachulí, haba tonka, ámbar gris.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Acuoso.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Benzyl Salicylate, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Limonene, Linalool, Geraniol, Coumarin, Citronellol, Citral.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/489p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o489.jpg" width="120" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 10
+
+- **Carácter**: Estimulante, dulce.
+- **Notas aromáticas** 
+- **Salida**: Mandarina, hojas de hiedra, flores de champaca.
+- **Corazón**: Jazmín, orquídea africana, rosa.
+- **Fondo**:  Madera de amaranto, zarzamora, almizcle.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Provocativo.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Butylphenyl Methylpropional, Linalool, Hexyl Cinnamal, Benzyl Salicylate, Citronellol, Alpha-Isomethyl Ionone, Hydroxycitronellal, Limonene, Geraniol, Benzyl Benzoate, Cinnamyl Alcohol, Citral, Benzyl Alcohol, Eugenol, Farnesol, Amyl Cinnamal.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/10p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o10.jpg" width="110" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 16
+
+- **Carácter**: Fabuloso, fascinante.
+- **Notas aromáticas** 
+- **Salida**: Mandarina, pera, notas verdes.
+- **Corazón**: Orquídea.
+- **Fondo**:  Pachuli, tofe.
+- **Familia olfativa**: Chypre.
+- **Tipo de perfume**: Dulce.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Hexyl Cinnamal, Benzyl Salicylate, Butylphenyl Methylpropional, Linalool, Limonene, Benzyl Alcohol, Amyl Cinnamal.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/16p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o16.jpg" width="150" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 20
+
+- **Carácter**: Seductor, sensual.
+- **Notas aromáticas** 
+- **Salida**: Osmanto, té negro, bergamota.
+- **Corazón**: Rosa, fresia, magnolia, orquídea.
+- **Fondo**:  Almizcle, pachuli.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Dulce.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Benzyl Salicylate, Linalool, Coumarin, Limonene, Benzyl Benzoate, Benzyl Cinnamate, Benzyl Alcohol, Citral.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/20p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o20.jpg" width="120" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 18
+
+- **Carácter**: Radiante, seductor.
+- **Notas aromáticas** 
+- **Salida**: Naranja, flor de azahar.
+- **Corazón**: Rosa, jazmín, ylang-ylang.
+- **Fondo**: Almizcle blanco, vetiver, haba Tonka, vainilla.
+- **Familia olfativa**: Chypre.
+- **Tipo de perfume**: Provocativo.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Butylphenyl Methylpropional, Limonene, Benzyl Salicylate, Hydroxycitronellal, Geraniol, Citronellol, Coumarin, Hexyl  innamal, Benzyl Alcohol, Citral, Eugenol.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/18p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o18.jpg" width="170" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 23
+
+- **Carácter**: Sensual, con notas dulces.
+- **Notas aromáticas** 
+- **Salida**: Lirio, naranja roja.
+- **Corazón**: Mandarina, jazmín, rosa.
+- **Fondo**: Vainilla, sándalo, almizcle blanco.
+- **Familia olfativa**: Cítrica.
+- **Tipo de perfume**: Romántica.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Hexyl Cinnamal, Butylphenyl Methylpropional, Linalool, Hydroxycitronellal, Limonene, Citronellol, Coumarin, Geraniol, Benzyl Alcohol, Citral, Amyl Cinnamal.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/23p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o23.jpg" width="150" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 97
+
+- **Carácter**: Encantador, aterciopelado.
+- **Notas aromáticas** 
+- **Salida**: Fresia, lirio, rosa.
+- **Corazón**: Azucena, gardenia, palma, narciso.
+- **Fondo**: Grosella negra, almizcle, musgo de roble.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Atrevido.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Butylphenyl Methylpropional, Hydroxycitronellal, Linalool, Limonene, Citronellol, Alpha-Isomethyl Ionone, Geraniol.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/97p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o97.jpg" width="190" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 98
+
+- **Carácter**: Fresco, sutil.
+- **Notas aromáticas** 
+- **Salida**: Grosella negra, bergamota, limón.
+- **Corazón**: Jazmín, lirio, rosa.
+- **Fondo**: Sándalo, cedro, ámbar.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Empresarial.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Hydroxycitronellal, Citral, Geraniol.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/98p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o98.jpg" width="130" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 431
+
+- **Carácter**: Con clase, elegante.
+- **Notas aromáticas** 
+- **Salida**: Pera, cardamomo, bergamota.
+- **Corazón**: Plumeria, fresia, jazmín, violeta.
+- **Fondo**: Vainilla, sándalo, almizcle.
+- **Familia olfativa**: Amaderado.
+- **Tipo de perfume**: Misterioso.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Amyl Cinnamal, Alpha-Isomethyl Ionone, Coumarin, Limonene, Hydroxycitronellal, Eugenol, Amylcinnamyl Alcohol, Benzyl Alcohol, Benzyl Benzoate, Citral, Benzyl Cinnamate.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/431p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o431.jpg" width="140" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 101
+
+- **Carácter**: Sofisticado, inolvidable.
+- **Notas aromáticas** 
+- **Salida**: Flor de azahar, pera.
+- **Corazón**: Jengibre, incienso.
+- **Fondo**: Sándalo, vainilla, miel, almizcle.
+- **Familia olfativa**: Oriental.
+- **Tipo de perfume**: Misterioso.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Butylphenyl Methylpropional, Benzyl Salicylate, Hexyl Cinnamal, Citronellol, Geraniol, Coumarin, Citral.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/101p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o101.jpg" width="90" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 34
+
+- **Carácter**: Libre, alegre.
+- **Notas aromáticas** 
+- **Salida**: Iris, piña, jacinto, pimienta rosa.
+- **Corazón**: Jazmín, limón.
+- **Fondo**:  Vainilla, vetiver, almizcle.
+- **Familia olfativa**: Chypre.
+- **Tipo de perfume**: Elegante.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Butylphenyl Methylpropional, Hexyl Cinnamal, Limonene, Benzyl Salicylate, Hydroxycitronellal, Citronellol, Coumarin, Citral,  enzyl Benzoate, Benzyl Alcohol, Amyl Cinnamal.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/34p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o34.jpg" width="160" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
+### Pure PHEROMONE 01
+
+- **Carácter**: Fresco y cálido a la vez.
+- **Notas aromáticas** 
+- **Salida**: Limón, té, arándano.
+- **Corazón**: Jazmín, peonía, nenúfar blanco.
+- **Fondo**:  Notas amaderadas, pachuli.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Misterioso.
+- **Capacidad**: 50 ml.
+- **Concentración**: 20%.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Limonene, Linalool, Butylphenyl Methylpropional, Hexyl Cinnamal, Citral, Citronellol, Eugenol, Benzyl Benzoate, Geraniol.
+
+<table class="tablem" cellspacing="8" cellpadding="8">
+
+<tbody>
+
+<tr>
+
+<td width="">
+<img src="./img/01p.jpg" width="100" height="230">
+</td>
+
+<td width="">
+<img src="./img/o01.jpg" width="110" height="230">
+</td>
+
+</tr>
+</tbody>
+</table>
+
+
 
 
 ## Colección Pure ROYAL

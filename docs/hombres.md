@@ -2,24 +2,17 @@
 title: Catálogo Perfumes Hombres
 ---
 
-<h1>Catálogo PURE Hombres</h1>
+<h1>Catálogo Perfumes Hombres</h1>
 
-Una fragancia perfectamente combinada es la firma de todo hombre, define su ego, su personalidad y subraya su temperamento. 🔥 Es tan importante como un traje a medida. 🌟
-
-**Síguenos en nuestras redes sociales y haz tus pedidos desde nuestro WhatsApp🌟🌟🌟**
-
-[![LogoInsta](./insta.png 'instagram')](https://www.instagram.com/p/CHK5n_wnm2f/?utm_source=ig_web_copy_link) [![LogoInsta](./face.png 'Face')](https://www.facebook.com/fmworld.nicaragua) [![LogoInsta](./ws.png 'whastsapp')](https://wa.me/50588506541)
-
+Una fragancia perfectamente combinada es la firma de todo hombre, define su ego, su personalidad y subraya su temperamento. Es tan importante como un traje a medida.
 
 ## Colección PURE
 
-**PURE** es una línea de perfumes de la marca **Federico Mahora** con un 20% de concentración embotellados en unos elegantes frascos de 50 ml. Esta galería aromática presenta hasta más de 85 composiciones diferentes que esconden una riqueza de notas aromáticas incomparable. ✨
+**PURE** es una línea de perfumes de la marca **Federico Mahora** con un 20% de concentración embotellados en unos elegantes frascos de 50 ml. Esta galería aromática presenta hasta más de 85 composiciones diferentes que esconden una riqueza de notas aromáticas incomparable.
 
 ![Portada](./img/portah3.jpg 'PortadaPure')
 
 ### Pure 52
-
-
 
 - **Carácter**: Atractivo, cautivador.
 - **Notas aromáticas** 
@@ -52,8 +45,6 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </table>
 
 ### Pure 457
-
-
 
 - **Carácter**: Fresco, minimalista.
 - **Notas aromáticas** 
@@ -121,8 +112,6 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 134
 
-
-
 - **Carácter**: Refrescante, cautivador.
 - **Notas aromáticas** 
 - **Salida**: Naranja amarga, limón, bergamota.
@@ -131,7 +120,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 - **Familia olfativa**: Cítrica.
 - **Tipo de perfume**: Ligero.
 - **Capacidad**: 50 ml.
-- **Concentración**: 24%.
+- **Concentración**: 20%.
 - **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Benzyl Salicylate, Geraniol, Citronellol, Citral, Eugenol, Evernia Furfuracea Extract, Hydroxycitronellal, Benzyl Benzoate, Farnesol.
 
 
@@ -154,8 +143,6 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 </table>
 
 ### Pure 135
-
-
 
 - **Carácter**: Sorprendente, intenso.
 - **Notas aromáticas** 
@@ -190,8 +177,6 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 473
 
-
-
 - **Carácter**: Limpio, energético.
 - **Notas aromáticas** 
 - **Salida**: Notas acuosas, romero.
@@ -225,8 +210,6 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 64
 
-
-
 - **Carácter**: Elegante y sensual.
 - **Notas aromáticas** 
 - **Salida**: Mandarina, cedro, anís.
@@ -235,7 +218,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 - **Familia olfativa**: Oriental.
 - **Tipo de perfume**: Elegante.
 - **Capacidad**: 50 ml.
-- **Concentración**: 24%.
+- **Concentración**: 20%.
 - **Ingredientes**: Alcohol denat., Fragrance/Parfum, Limonene, Linalool, Coumarin, Hydroxycitronellal, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Hexyl Cinnamal, Citronellol, Citral, Geraniol.
 
 
@@ -293,8 +276,6 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 472
 
-
-
 - **Carácter**: Fresco y energético.
 - **Notas aromáticas** 
 - **Salida**: Hojas de grosella, fresia, frambuesa, mandarina.
@@ -336,7 +317,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 - **Familia olfativa**: Oriental.
 - **Tipo de perfume**: Sexy.
 - **Capacidad**: 50 ml.
-- **Concentración**: 24%.
+- **Concentración**: 20%.
 - **Ingredientes**: Alcohol denat., Fragrance/Parfum, Benzyl Salicylate, Hexyl Cinnamal, Hydroxycitronellal, Benzyl Benzoate, Linalool, Coumarin, Limonene, Citronellol, Benzyl Alcohol, Farnesol, Citral, Amyl Cinnamal, Geraniol.
 
 
@@ -466,7 +447,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 - **Familia olfativa**: Floral.
 - **Tipo de perfume**: Misterioso.
 - **Capacidad**: 50 ml.
-- **Concentración**: 24%.
+- **Concentración**: 20%.
 - **Ingredientes**: Alcohol denat., Fragrance/Parfum, Hexyl Cinnamal, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citronellol, Linalool, Butylphenyl Methylpropional, Coumarin, Benzyl Benzoate, Citral, Eugenol.
 
 
@@ -522,8 +503,6 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 110
 
-
-
 - **Carácter**: Algo atrevido, rebelde.
 - **Notas aromáticas** 
 - **Salida**: Lavanda, bergamota, cardamomo.
@@ -532,7 +511,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 - **Familia olfativa**: Chypre.
 - **Tipo de perfume**: Libre.
 - **Capacidad**: 50 ml.
-- **Concentración**: 24%.
+- **Concentración**: 20%.
 - **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Coumarin, Limonene, Geraniol.
 
 
@@ -621,8 +600,6 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 
 ### Pure 56
-
-
 
 - **Carácter**: Vibrante, despierta los sentidos.
 - **Notas aromáticas** 
@@ -722,8 +699,6 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ### Pure 43
 
-
-
 - **Carácter**: Energético, cautivador.
 - **Notas aromáticas** 
 - **Salida**: Mandarina, kumquat, pimienta rosa.
@@ -732,7 +707,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 - **Familia olfativa**: Fougère.
 - **Tipo de perfume**: Deportivo.
 - **Capacidad**: 50 ml.
-- **Concentración**: 24%.
+- **Concentración**: 20%.
 - **Ingredientes**: Alcohol denat., Fragrance/Parfum, Butylphenyl Methylpropional, Limonene, Linalool, Citral, Geraniol.
 
 
@@ -764,7 +739,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 - **Familia olfativa**: Fougère.
 - **Tipo de perfume**: Empresarial.
 - **Capacidad**: 50 ml.
-- **Concentración**: 24%.
+- **Concentración**: 20%.
 - **Ingredientes**: Alcohol denat., Fragrance/Parfum, Limonene, Linalool, Butylphenyl Methylpropional, Hydroxyisohexyl
 3-Cyclohexene Carboxaldehyde, Alpha-Isomethyl Ionone, Eugenol, Citral, Hexyl Cinnamal, Evernia Furfuracea Extract, Geraniol, Evernia Prunastri Extract, Citronellol, Coumarin.
 
@@ -894,7 +869,7 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 - **Familia olfativa**: Cítrica.
 - **Tipo de perfume**: Ligero.
 - **Capacidad**: 50 ml.
-- **Concentración**: 24%.
+- **Concentración**: 20%.
 - **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Benzyl Salicylate, Geraniol, Citronellol, Citral, Eugenol, Evernia Furfuracea Extract, Hydroxycitronellal, Benzyl Benzoate, Farnesol.
 
 
@@ -1017,7 +992,9 @@ Una fragancia perfectamente combinada es la firma de todo hombre, define su ego,
 
 ¿Quieres oler bien más tiempo y más interesante? Estás buscando una fragancia duradera... muy duradera... ¡Elige **INTENSE**! ¡Disfruta de tu aroma favorito durante un tiempo increiblemente largo!.
 
-Los perfumes **INTENSE** te asegurarán sensaciones intensas que  adquirirán fuerza com el paso de las horas. Disfruta de ellos durante un tiempo increíblemente largo gracias a su concentración de hasta un **30%**!. ✨
+Los perfumes **INTENSE** te asegurarán sensaciones intensas que  adquirirán fuerza com el paso de las horas. Disfruta de ellos durante un tiempo increíblemente largo gracias a su concentración de hasta un **30%**!.
+
+![Portada](./img/portaih.jpg 'PortadaRoyal')
 
 ### Pure INTENSE 52
 
@@ -1054,16 +1031,16 @@ Los perfumes **INTENSE** te asegurarán sensaciones intensas que  adquirirán fu
 
 ### Pure INTENSE 457
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Fresco, minimalista.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
-- **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Salida**: Pomelo, mandarina, notas acuosas.
+- **Corazón**: Jazmín, hoja de laurel.
+- **Fondo**: Ámbar gris, pachuli, musgo de roble.
+- **Familia olfativa**: Amaderada.
+- **Tipo de perfume**: Deportivo.
 - **Capacidad**: 50 ml.
 - **Concentración**: 30%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Water/Aqua, Benzyl Salicylate, Limonene, Linalool, Coumarin, Butylphenyl Methylpropional, Citronellol, Geraniol,Alpha-Isomethyl Ionone, Citral, Eugenol, Benzyl Benzoate.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1087,16 +1064,16 @@ Los perfumes **INTENSE** te asegurarán sensaciones intensas que  adquirirán fu
 
 ### Pure INTENSE 134
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Refrescante, cautivador.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
-- **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Salida**: Naranja amarga, limón, bergamota.
+- **Corazón**: Romero, hierba marina, violeta.
+- **Fondo**: Pachuli, cedro, ámbar gris.
+- **Familia olfativa**: Cítrica.
+- **Tipo de perfume**: Ligero.
 - **Capacidad**: 50 ml.
 - **Concentración**: 30%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Benzyl Salicylate, Geraniol, Citronellol, Citral, Eugenol, Evernia Furfuracea Extract, Hydroxycitronellal, Benzyl Benzoate, Farnesol.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1119,16 +1096,16 @@ Los perfumes **INTENSE** te asegurarán sensaciones intensas que  adquirirán fu
 
 ### Pure INTENSE 473
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Limpio, energético.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
-- **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Salida**: Notas acuosas, romero.
+- **Corazón**: Cardamomo, secuoya.
+- **Fondo**: Almizcle, pachuli.
+- **Familia olfativa**: Acuosa.
+- **Tipo de perfume**: Deportivo.
 - **Capacidad**: 50 ml.
 - **Concentración**: 30%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol Denat., Fragrance/Parfum, Limonene, Linalool, Butylphenyl Methylpropional, Benzyl Salicylate, Geraniol, Citral.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1151,16 +1128,16 @@ Los perfumes **INTENSE** te asegurarán sensaciones intensas que  adquirirán fu
 
 ### Pure INTENSE 64
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Elegante y sensual.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
+- **Salida**: Mandarina, cedro, anís.
+- **Corazón**: Romero, flor de olivo.
+- **Fondo**: Almizcle, guayaco, haba Tonka.
 - **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Tipo de perfume**: Elegante.
 - **Capacidad**: 50 ml.
 - **Concentración**: 30%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Limonene, Linalool, Coumarin, Hydroxycitronellal, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Hexyl Cinnamal, Citronellol, Citral, Geraniol.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1183,16 +1160,16 @@ Los perfumes **INTENSE** te asegurarán sensaciones intensas que  adquirirán fu
 
 ### Pure INTENSE 472
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Fresco y energético.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
-- **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Salida**: Hojas de grosella, fresia, frambuesa, mandarina.
+- **Corazón**: Iris, violeta, mimosa.
+- **Fondo**: Sándalo, vainilla, almizcle.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Deportivo.
 - **Capacidad**: 50 ml.
 - **Concentración**: 30%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Benzyl Salicylate, Limonene, Hexyl Cinnamal, Cinnamyl Alcohol, Benzyl Benzoate, Linalool, Benzyl Cinnamate.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1216,16 +1193,16 @@ Los perfumes **INTENSE** te asegurarán sensaciones intensas que  adquirirán fu
 
 ### Pure INTENSE 110
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Algo atrevido, rebelde.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
-- **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Salida**: Lavanda, bergamota, cardamomo.
+- **Corazón**: Flor de azahar, lirio.
+- **Fondo**: Almizcle, ámbar gris, vainilla.
+- **Familia olfativa**: Chypre.
+- **Tipo de perfume**: Libre.
 - **Capacidad**: 50 ml.
 - **Concentración**: 30%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Coumarin, Limonene, Geraniol.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1249,16 +1226,16 @@ Los perfumes **INTENSE** te asegurarán sensaciones intensas que  adquirirán fu
 
 ### Pure INTENSE 56
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Vibrante, despierta los sentidos.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
-- **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Salida**: Pomelo, lavanda, fl or de nuez moscada, madreselva.
+- **Corazón**: Frambuesa, heliotropo, clavo.
+- **Fondo**: Cedro, resina, enebro.
+- **Familia olfativa**: Chypre.
+- **Tipo de perfume**: Decidido.
 - **Capacidad**: 50 ml.
 - **Concentración**: 30%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Limonene, Linalool, Coumarin, Geraniol, Eugenol, Citral, Isoeugenol, Cinnamyl Alcohol.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1281,16 +1258,16 @@ Los perfumes **INTENSE** te asegurarán sensaciones intensas que  adquirirán fu
 
 ### Pure INTENSE 43
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Energético, cautivador.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
-- **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Salida**: Mandarina, kumquat, pimienta rosa.
+- **Corazón**: Cilantro, fresia, cardamomo.
+- **Fondo**: Notas a cuero, árbol de Jacarandá.
+- **Familia olfativa**: Fougère.
+- **Tipo de perfume**: Deportivo.
 - **Capacidad**: 50 ml.
 - **Concentración**: 30%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Butylphenyl Methylpropional, Limonene, Linalool, Citral, Geraniol.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1318,6 +1295,7 @@ Los perfumes **INTENSE** te asegurarán sensaciones intensas que  adquirirán fu
 
 Las **feromonas** son sustancias inodoros que se agregan a los perfumes para intensificar los efectos estimulantes. Son un arma secreta cuya misión es aumentar la atracción y la autoconfianza. ¡La seducción nunca ha sido tan fácil!.
 
+![Portada](./img/portap.jpg 'PortadaRoyal')
 
 ### Pure PHEROMONE 52
 
@@ -1354,16 +1332,16 @@ Las **feromonas** son sustancias inodoros que se agregan a los perfumes para int
 
 ### Pure PHEROMONE 457
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Fresco, minimalista.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
-- **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Salida**: Pomelo, mandarina, notas acuosas.
+- **Corazón**: Jazmín, hoja de laurel.
+- **Fondo**: Ámbar gris, pachuli, musgo de roble.
+- **Familia olfativa**: Amaderada.
+- **Tipo de perfume**: Deportivo.
 - **Capacidad**: 50 ml.
 - **Concentración**: 20%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Water/Aqua, Benzyl Salicylate, Limonene, Linalool, Coumarin, Butylphenyl Methylpropional, Citronellol, Geraniol,Alpha-Isomethyl Ionone, Citral, Eugenol, Benzyl Benzoate.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1387,16 +1365,16 @@ Las **feromonas** son sustancias inodoros que se agregan a los perfumes para int
 
 ### Pure PHEROMONE 134
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Refrescante, cautivador.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
-- **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Salida**: Naranja amarga, limón, bergamota.
+- **Corazón**: Romero, hierba marina, violeta.
+- **Fondo**: Pachuli, cedro, ámbar gris.
+- **Familia olfativa**: Cítrica.
+- **Tipo de perfume**: Ligero.
 - **Capacidad**: 50 ml.
 - **Concentración**: 20%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Benzyl Salicylate, Geraniol, Citronellol, Citral, Eugenol, Evernia Furfuracea Extract, Hydroxycitronellal, Benzyl Benzoate, Farnesol.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1419,16 +1397,16 @@ Las **feromonas** son sustancias inodoros que se agregan a los perfumes para int
 
 ### Pure PHEROMONE 473
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Limpio, energético.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
-- **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Salida**: Notas acuosas, romero.
+- **Corazón**: Cardamomo, secuoya.
+- **Fondo**: Almizcle, pachuli.
+- **Familia olfativa**: Acuosa.
+- **Tipo de perfume**: Deportivo.
 - **Capacidad**: 50 ml.
 - **Concentración**: 20%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol Denat., Fragrance/Parfum, Limonene, Linalool, Butylphenyl Methylpropional, Benzyl Salicylate, Geraniol, Citral.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1451,16 +1429,16 @@ Las **feromonas** son sustancias inodoros que se agregan a los perfumes para int
 
 ### Pure PHEROMONE 64
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Elegante y sensual.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
+- **Salida**: Mandarina, cedro, anís.
+- **Corazón**: Romero, flor de olivo.
+- **Fondo**: Almizcle, guayaco, haba Tonka.
 - **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Tipo de perfume**: Elegante.
 - **Capacidad**: 50 ml.
 - **Concentración**: 20%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Limonene, Linalool, Coumarin, Hydroxycitronellal, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Hexyl Cinnamal, Citronellol, Citral, Geraniol.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1483,16 +1461,16 @@ Las **feromonas** son sustancias inodoros que se agregan a los perfumes para int
 
 ### Pure PHEROMONE 472
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Fresco y energético.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
-- **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Salida**: Hojas de grosella, fresia, frambuesa, mandarina.
+- **Corazón**: Iris, violeta, mimosa.
+- **Fondo**: Sándalo, vainilla, almizcle.
+- **Familia olfativa**: Floral.
+- **Tipo de perfume**: Deportivo.
 - **Capacidad**: 50 ml.
 - **Concentración**: 20%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Benzyl Salicylate, Limonene, Hexyl Cinnamal, Cinnamyl Alcohol, Benzyl Benzoate, Linalool, Benzyl Cinnamate.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1516,16 +1494,16 @@ Las **feromonas** son sustancias inodoros que se agregan a los perfumes para int
 
 ### Pure PHEROMONE 110
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Algo atrevido, rebelde.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
-- **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Salida**: Lavanda, bergamota, cardamomo.
+- **Corazón**: Flor de azahar, lirio.
+- **Fondo**: Almizcle, ámbar gris, vainilla.
+- **Familia olfativa**: Chypre.
+- **Tipo de perfume**: Libre.
 - **Capacidad**: 50 ml.
 - **Concentración**: 20%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Butylphenyl Methylpropional, Alpha-Isomethyl Ionone, Coumarin, Limonene, Geraniol.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1549,16 +1527,16 @@ Las **feromonas** son sustancias inodoros que se agregan a los perfumes para int
 
 ### Pure PHEROMONE 56
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Vibrante, despierta los sentidos.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
-- **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Salida**: Pomelo, lavanda, fl or de nuez moscada, madreselva.
+- **Corazón**: Frambuesa, heliotropo, clavo.
+- **Fondo**: Cedro, resina, enebro.
+- **Familia olfativa**: Chypre.
+- **Tipo de perfume**: Decidido.
 - **Capacidad**: 50 ml.
 - **Concentración**: 20%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Limonene, Linalool, Coumarin, Geraniol, Eugenol, Citral, Isoeugenol, Cinnamyl Alcohol.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1581,16 +1559,16 @@ Las **feromonas** son sustancias inodoros que se agregan a los perfumes para int
 
 ### Pure PHEROMONE 135
 
-- **Carácter**: Atractivo, cautivador.
+- **Carácter**: Sorprendente, intenso.
 - **Notas aromáticas** 
-- **Salida**: manzana, bergamota, menta.
-- **Corazón**: Jazmín, pelargonio, lavanda.
-- **Fondo**: Canela, clavo, almizcle.
-- **Familia olfativa**: Oriental.
-- **Tipo de perfume**: Atrevido.
+- **Salida**: Naranja amarga, mandarina.
+- **Corazón**: Santolina, hierba marina.
+- **Fondo**: Ámbar gris, notas amaderadas.
+- **Familia olfativa**: Fougère.
+- **Tipo de perfume**: Ligero.
 - **Capacidad**: 50 ml.
 - **Concentración**: 20%.
-- **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
+- **Ingredientes**: Alcohol Denat., Fragrance/Parfum, Limonene, Butylphenyl Methylpropional, Linalool, Benzyl Salicylate, Hexyl Cinnamal, Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde, Citral, Geraniol, Citronellol.
 
 
 <table class="tablem" cellspacing="8" cellpadding="8">
@@ -1761,7 +1739,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 - **Familia olfativa**: Elegante.
 - **Tipo de perfume**: Expresivo.
 - **Capacidad**: 50 ml.
-- **Concentración**: 24%.
+- **Concentración**: 20%.
 - **Ingredientes**: Alcohol denat., Fragrance/Parfum, Linalool, Limonene, Coumarin, Citronellol, Citral, Eugenol, Geraniol, Cinnamal.
 
 
@@ -1794,7 +1772,7 @@ La nueva línea **PURE ROYAL**, fascina con nuevas y refinadas fragancias, así 
 - **Familia olfativa**: Fougère.
 - **Tipo de perfume**: Deportivo.
 - **Capacidad**: 50 ml.
-- **Concentración**: 24%.
+- **Concentración**: 20%.
 - **Ingredientes**: Alcohol denat., Fragrance/Parfum, Water/Aqua, Linalool, Benzyl Salicylate, Limonene, Hydroxycitronellal, Coumarin, Alpha-Isomethyl Ionone, Geraniol, Citral, Citronellol.
 
 

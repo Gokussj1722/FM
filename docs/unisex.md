@@ -4,11 +4,7 @@ title: Catálogo Perfumes Unisex
 
 <h1>Catálogo Perfumes Unisex</h1>
 
-**PURE ROYAL UNISEX** representa un regreso a la perfumería clásica donde las fragancias no se atribuyeron al género ⭐. Son composiciones extremadamente originales, creadas para mujeres y hombres, por un lado, fuertes y llamativas, por otro, entrelazadas con toques claros y frescos. Son perfumes que se pueden compartir con su pareja, y aun así, el olor será diferente en cada uno. 💞 🌟
-
-**Síguenos en nuestras redes sociales y haz tus pedidos desde nuestro WhatsApp🌟🌟🌟**
-
-[![LogoInsta](./insta.png 'instagram')](https://www.instagram.com/p/CHK5n_wnm2f/?utm_source=ig_web_copy_link) [![LogoInsta](./face.png 'Face')](https://www.facebook.com/fmworld.nicaragua) [![LogoInsta](./ws.png 'whastsapp')](https://wa.me/50588506541)
+**PURE ROYAL UNISEX** representa un regreso a la perfumería clásica donde las fragancias no se atribuyeron al género. Son composiciones extremadamente originales, creadas para mujeres y hombres, por un lado, fuertes y llamativas, por otro, entrelazadas con toques claros y frescos. Son perfumes que se pueden compartir con su pareja, y aun así, el olor será diferente en cada uno.
 
 
 ![Portada](./img/portau1.jpg 'PortadaPure')
