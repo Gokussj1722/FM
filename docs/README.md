@@ -18,6 +18,6 @@ La propuesta de traer **FM** a **Nicaragua**, surge como resultado de un estudio
 
 
 
-[![LogoInsta](./insta.png 'instagram')](https://www.instagram.com/p/CHK5n_wnm2f/?utm_source=ig_web_copy_link) [![LogoFace](./face.png 'Face')](https://www.facebook.com/fmworld.nicaragua) [![LogoWS](./ws.png 'whastsapp')+50588506541](https://wa.me/50588506541)
+[![LogoInsta](./insta.png 'instagram')](https://www.instagram.com/p/CHK5n_wnm2f/?utm_source=ig_web_copy_link) [![LogoFace](./face.png 'Face')](https://www.facebook.com/fmworld.nicaragua) [![LogoWS](./ws.png 'whastsapp')](https://wa.me/50588506541)
 
 
